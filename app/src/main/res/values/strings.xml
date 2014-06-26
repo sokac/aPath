@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">apath</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="bluetooth_not_supported">Bluetooth nije podrzan na ovom uredaju.</string>
+    <string name="position_not_available">Pozicija uredaja nije dostupan.</string>
+    <string name="bluetooth_not_enabled">Bluetooth nije ukljucen</string>
+    <string name="choose_device">Izaberi uredaj</string>
+    <string name="choose_method">Izaberi metodu upravljanja</string>
+    <string name="gyroscope">Ziroskop</string>
+    <string name="manual">Rucne kontrole</string>
+    <string name="title_activity_control">Kontroler</string>
+    <string name="control_exit">Exit</string>
+    <string name="control_values">DUMMY\nCONTENT</string>
+
+</resources>
